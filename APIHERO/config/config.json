@@ -1,0 +1,12 @@
+{
+    "files":{
+      "images":"images/"
+    },
+ "mySqlConnection":{
+     "server" : "192.168.1.13:3308",
+     "database" : "herodev",
+     "user":"ti",
+     "password":"RGlobal^"
+ }
+}
+    
